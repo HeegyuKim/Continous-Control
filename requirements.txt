@@ -1,0 +1,5 @@
+unityagents
+torch
+numpy
+matplotlib
+jupyter

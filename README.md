@@ -63,8 +63,14 @@ The environment is considered solved, when the average (over 100 episodes) of th
 2. Place the file in the DRLND GitHub repository, in the `p2_continuous-control/` folder, and unzip (or decompress) the file. 
 
 ### Instructions
-
-Follow the instructions in `Report.ipynb` to get started with training your own agent!  
+First, you need some python packages described in requirements.txt
+```bash
+pip install -r requirements.txt
+```
+And run `jupyter notebook`, open `Report.ipynb` and execute the cells to train the agent!
+```bash 
+jupyter notebook
+```
 
 ## Achievment
 ### 20-agent env training
