@@ -67,7 +67,7 @@ First, you need some python packages described in requirements.txt
 ```bash
 pip install -r requirements.txt
 ```
-And run `jupyter notebook`, open `Report.ipynb` and execute the cells to train the agent!
+And command `jupyter notebook`, open `Report.ipynb` and execute the cells to train the agent!
 ```bash 
 jupyter notebook
 ```
